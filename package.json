@@ -5,7 +5,8 @@
   "license": "MIT",
   "scripts": {
     "dev": "gulp dev",
-    "build": "gulp build"
+    "build": "gulp build",
+    "deploy": "gulp deploy"
   },
   "devDependencies": {
     "@babel/core": "^7.23.0",
